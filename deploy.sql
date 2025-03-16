@@ -1,1 +1,2 @@
-select top 10 * from deb_dev.dev.allstar;
+insert into dbdev.common.test
+select 'Hello world';
