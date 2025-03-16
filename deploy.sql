@@ -1,2 +1,1 @@
-insert into dbdev.common.test
-select 'Hello world';
+insert into dbdev.common.test select 'Hello world';
